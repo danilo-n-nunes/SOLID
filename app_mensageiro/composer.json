@@ -1,0 +1,15 @@
+{
+    "name": "dnn_1/app_mensageiro",
+    "authors": [
+        {
+            "name": "Danilo Nunes",
+            "email": "danilowebdev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
